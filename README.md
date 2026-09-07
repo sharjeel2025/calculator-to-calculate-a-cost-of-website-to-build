@@ -115,7 +115,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 🔗 Links
 
-- [🌐 Live Calculator – devgurux.com] given above
+- [🌐 Live Calculator – devgurux.com](https://devgurux.com/our-tools/website-cost-calculator/) given above
 - [📂 GitHub Repository](https://github.com/sharjeel2025/calculator-to-calculate-a-cost-of-website-to-build-)
 - [📝 About the Project](https://devgurux.com/about/)
 
