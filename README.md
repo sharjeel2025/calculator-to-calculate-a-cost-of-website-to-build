@@ -1,4 +1,4 @@
-# Website Cost Calculator
+# cost to build a site in tech
 
 **A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
 
