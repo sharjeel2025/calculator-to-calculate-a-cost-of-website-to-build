@@ -1,5 +1,4 @@
-# cost to build a site in tech
-
+# Website Project Pricing Estimation Tool
 **A transparent, no‑sign‑up tool that turns "how much?" into a clear, itemized estimate.**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
